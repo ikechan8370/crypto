@@ -1,4 +1,4 @@
-module github.com/skinowski/crypto
+module github.com/x/crypto
 
 go 1.17
 
